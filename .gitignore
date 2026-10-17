@@ -1,0 +1,24 @@
+# Build artifacts
+build/
+*.exe
+*.obj
+*.pdb
+*.ilk
+*.idb
+*.res
+*.tlog
+*.log
+
+# Debug logs
+debug.log
+render_debug.log
+
+# IDE / editor
+.vs/
+.vscode/
+*.user
+*.suo
+
+# OS
+Thumbs.db
+Desktop.ini
